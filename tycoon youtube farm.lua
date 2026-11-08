@@ -37,7 +37,7 @@ local Config = {
 
     -- [7] Hub Information & UI Text
     HubName         = "Youtuber Tycoon Farm", -- The main title shown at the top of the GUI
-    HubDescription  = "farm 100%" -- The text shown below the title
+    HubDescription  = "online" -- The text shown below the title
 }
 
 -------------------------------------------------------------------------------
